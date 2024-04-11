@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "This is for Frontend App",
+  "main": "vue-project/index.js",
+  "scripts": {
+    "test": "cd vue-project && npm run format && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakhti31/frontend.git"
+  },
+  "keywords": [
+    "Vue",
+    "js",
+    "Node",
+    "Js",
+    "Frontend",
+    "App"
+  ],
+  "author": "bakhti31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakhti31/frontend/issues"
+  },
+  "homepage": "https://github.com/bakhti31/frontend#readme"
+}
